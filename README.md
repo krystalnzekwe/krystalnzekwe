@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**krystalnzekwe/krystalnzekwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Education</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Data Analysis</b>
+    - Quantum Analytics
+      
+- <b>B.Engr. Electrical Engineering</b>
+    - University of Nigeria, Nsukka, Enugu State <b>
+
+
+<h2> Portfolio Projects</h2>
+
+-
+
+-
+
+-
+
+
+<h2> Technical Trainings</h2>
+
+-
+
+-
+
+-
+
+
+<h2> Contact:</h2>
+  <b> Location </b>
+     <p>Lagos, Nigeria <br />
+     </p>
+
+  <b> Phone </b>
+    <p><a href="tel: +2347038485379">(234) 7038485379</a> <br />
+    </p>
+
+  <b> Email </b>
+  <p><a href="mailto: krystalnzekwe@gmail.com"> krystalnzekwe@gmail.com</a></p>
+
+
