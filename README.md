@@ -32,11 +32,5 @@
      <p>Lagos, Nigeria <br />
      </p>
 
-  <b> Phone </b>
-    <p><a href="tel: +2347038485379">(234) 7038485379</a> <br />
-    </p>
-
-  <b> Email </b>
-  <p><a href="mailto: krystalnzekwe@gmail.com"> krystalnzekwe@gmail.com</a></p>
-
+  
 
